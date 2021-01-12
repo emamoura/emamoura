@@ -1,6 +1,6 @@
 # Hello, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
-<img align="right" width="40%" src="https://giphy.com/gifs/diversifyscience-women-E1Kd3pQwrsMtQbNkt0" alt="Woman in the computer" />
+<img align="right" width="40%" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Programmer Cat" />
 
 ### Welcome to my page!
 <p>
