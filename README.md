@@ -1,6 +1,6 @@
 # Hello, nice to meet you <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
-<img align="right" width="40%" src="https://media.giphy.com/media/YxdQy6Vxbvb44/giphy.gif" alt="Basecamp sky" />
+<img align="right" width="40%" src="https://giphy.com/gifs/diversifyscience-women-E1Kd3pQwrsMtQbNkt0" alt="Woman in the computer" />
 
 ### Welcome to my page!
 <p>
@@ -63,13 +63,13 @@
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emanmoura&show_icons=true&theme=dracula" alt="Emanuel's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emamoura&show_icons=true&theme=dracula" alt="Emanuel's github stats" />
 </p>
 
 <br/>
 
 <p align="right">
   <a href="https://badges.pufler.dev">
-      <img src="https://badges.pufler.dev/visits/emanmoura/emanmoura" alt="Visitors badge" />
+      <img src="https://badges.pufler.dev/visits/emamoura/emanmoura" alt="Visitors badge" />
    </a>
 </p>
